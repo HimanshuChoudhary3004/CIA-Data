@@ -1,0 +1,9 @@
+# Exclude virtual environments, large datasets, logs, etc.
+myenv/
+*.log
+data/
+create_resources.ipynb
+load_resources.ipynb
+creating resouces.py
+test.py
+
